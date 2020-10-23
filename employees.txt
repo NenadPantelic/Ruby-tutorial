@@ -1,0 +1,6 @@
+Andy, QA
+Sam, DevOps
+Marie, Software Engineer
+Jacob, Designer
+Chloe, Manager
+Nenad, Software Engineer

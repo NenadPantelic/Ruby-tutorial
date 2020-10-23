@@ -11,3 +11,4 @@ puts Math.log(22)
 
 puts 10/7
 puts 10/7.0
+puts 2 ** 3
